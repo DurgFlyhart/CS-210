@@ -1,0 +1,5 @@
+﻿  Airgead.cpp
+  Main.cpp
+U:\Visual Studio 2019\Templates\ProjectTemplates\Visual C++\Airgead\Airgead\Main.cpp(46,17): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  Airgead.vcxproj -> U:\Visual Studio 2019\Templates\ProjectTemplates\Visual C++\Airgead\Debug\Airgead.exe
